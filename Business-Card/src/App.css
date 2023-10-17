@@ -1,0 +1,72 @@
+
+/* .info{
+
+} */
+
+.info-contact-link a{
+    width: 115px;
+    height: 34px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+.info-contact-link :first-child{
+    background-color: #D1D5DB;
+    color: #374151;
+
+}
+.info-contact-link a:last-child{
+    background-color: #5093E2;
+    color: #FFFFFF;
+}
+.linkedin{
+    background-color: #5093E2 ;
+}
+.contact{
+ text-align: center;
+}
+.contact-name{
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.job-title{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #F3BF99;
+}
+.email-contact{
+    font-size: 14px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.align-center{
+    max-width: 247px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about h3{
+    color: #FFFFFF;
+}
+.about p{
+    color: #DCDCDC;
+}
+.footer{
+    height: 64px;
+    background-color: hsl(240, 6%, 9%);
+    box-shadow: 0 8px 8px -4px;
+}
+.interests h3{
+    color: #FFFFFF;
+}
+.interests p{
+    color: #DCDCDC;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}

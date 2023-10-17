@@ -1,0 +1,15 @@
+:root{
+  background-color: #1C1C1C;
+  font-family: 'Inter', sans-serif;
+}
+.wrapper{
+  margin-top: auto;
+  background-color: #23252C;
+  width: 550px;
+  height: 860px;
+}
+.inner-wrapper{
+  width: 317px;
+  background-color: #1A1B21;
+  margin: auto;
+}
